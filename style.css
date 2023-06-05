@@ -4,7 +4,7 @@
 }
 
 body {
-    background: url(WhatsApp Image 2023-06-01 at 7.37.00 PM.jpeg) no-repeat;
+    background: url("./bg-img.jpg") no-repeat;
     background-size: cover;
     height: 300vh;
 }
